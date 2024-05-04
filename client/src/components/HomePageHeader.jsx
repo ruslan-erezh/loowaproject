@@ -38,7 +38,7 @@ export default function HomePageHeader() {
             color={"#003459"}
             userSelect={"none"}
           >
-            Loowa
+            Loowaf
           </Text>
           <Stack
             display={{ base: "none", md: "flex" }}
